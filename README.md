@@ -262,9 +262,9 @@ npm run dev
 
 La aplicación se abre en `http://localhost:5173`
 
-## Credenciales de Prueba (Para Profesores/Evaluadores)
+## Cuenta de demostración
 
-Para probar las funcionalidades de **administrador** (crear, editar, eliminar productos), puede utilizar las siguientes credenciales:
+Usuario de prueba para evaluación académica y demostración de funcionalidades administrativas.
 
 ```
 Email: admin@gmail.com
