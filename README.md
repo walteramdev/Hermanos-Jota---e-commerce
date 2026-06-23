@@ -180,7 +180,7 @@ hermanosJota_e-commerce/
 ### 1. Clonar el repositorio
 
 ```bash
-git clone https://github.com/FedeLeonardis/hermanosJota_e-commerce.git
+git clone https://github.com/walteramdev/Hermanos-Jota---e-commerce.git
 cd hermanosJota_e-commerce
 ```
 
