@@ -17,9 +17,9 @@ Proyecto full-stack de e-commerce completo para una mueblería. La solución con
 - **Frontend (Netlify)**: https://hermanos-jota-muebleria.netlify.app/
 - **Backend (Render)**: https://hermanosjota-e-commerce.onrender.com
 
-## �🎓 Credenciales de Prueba (Evaluadores)
+## Cuenta de demostración
 
-Para evaluar las funcionalidades de **administrador**, utilice estas credenciales:
+Usuario de prueba para evaluación académica y demostración de funcionalidades administrativas.
 
 ```
 Email: admin@gmail.com
